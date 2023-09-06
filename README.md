@@ -1,2 +1,0 @@
-### flowgorithm assignment solution 
-* flowgorithm
